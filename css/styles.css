@@ -8,15 +8,19 @@ body {
 
 h1{
   font-family: 'Open Sans', sans-serif;
+  font-size: 3.5em;
 }
 
 
-h4{
+#hello{
   font-family: 'Roboto Mono', monospace;
+  font-size: 2em;
+
 }
 
-p{
+#hello2{
   font-family: 'Roboto Mono', monospace;
+  font-size: 2em;
 
 }
 
