@@ -2,6 +2,19 @@
   background-color: white;
 }
 
+#skills{
+  background-color: #00B4DB;
+  opacity: 0.7;
+  color: white;
+
+
+}
+
+#body{
+  background-color: #00B4DB;
+
+
+}
 
 body {
   background-image: url("../img/office2.jpeg");
