@@ -6,6 +6,9 @@ body {
   background-attachment: fixed;
 }
 
+#avatar{
+  padding:1em; 
+}
 #logo{
   padding-bottom: 19em;
 }
