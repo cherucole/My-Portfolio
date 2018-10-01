@@ -1,3 +1,15 @@
+body {
+  background-image: url("../img/office2.jpeg");
+  opacity: 1;
+
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#logo{
+  padding-bottom: 19em;
+}
+
 #lorem{
   background-color: white;
 }
@@ -10,19 +22,10 @@
 
 }
 
-#body{
-  background-color: #00B4DB;
-
 
 }
 
-body {
-  background-image: url("../img/office2.jpeg");
-  opacity: 1;
 
-  background-size: cover;
-  background-attachment: fixed;
-}
 
 h1{
   font-family: 'Open Sans', sans-serif;
