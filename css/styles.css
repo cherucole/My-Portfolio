@@ -5,6 +5,16 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+#card1{
+  background-color: white;
+}
+
+#card1:hover{
+  background-color: red;
+  color:blue;
+  opacity: 0.8;
+}
+
 
 #cardtext{
   color: black;
