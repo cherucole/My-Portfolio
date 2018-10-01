@@ -6,8 +6,16 @@ body {
   background-attachment: fixed;
 }
 
+#cardtext{
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+
+
 #avatar{
-  padding:1em; 
+  padding:1em;
 }
 #logo{
   padding-bottom: 19em;
