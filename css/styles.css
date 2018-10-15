@@ -1,10 +1,28 @@
 body {
   background-image: url("../img/office2.jpeg");
-  opacity: 1;
+  /* opacity: 1 !important; */
 
   background-size: cover;
   background-attachment: fixed;
 }
+
+#body{
+  /* background-size: cover; */
+  /* background-attachment: fixed; */
+
+  /* background-image: url("../img/office2.jpeg"); */
+ background-color:rgba(0, 0, 0, 0.7);
+}
+
+body {
+  /* background-image: url("../img/office2.jpeg"); */
+  opacity: 1 !important;
+
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
 #card1{
   background-color: white;
 }
@@ -53,10 +71,20 @@ body {
 
 }
 
+#name{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 2em;
+  color: #eece1a;
+  font-weight: bold;
+  /* opacity: 1 !important; */
+
+
+}
 
 #hello{
   font-family: 'Roboto Mono', monospace;
   font-size: 2em;
+  color: #bdbdbd;
 
 }
 
