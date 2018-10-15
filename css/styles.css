@@ -79,6 +79,13 @@ body {
   /* opacity: 1 !important; */
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 #hello{
   font-family: 'Roboto Mono', monospace;
   font-size: 2em;
