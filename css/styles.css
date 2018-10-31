@@ -22,6 +22,48 @@ body {
   background-attachment: fixed;
 }
 
+.padding {
+  /* padding-bottom: 1rem; */
+}
+
+.social a {
+  font-size: 1.5em;
+  padding: 2rem;
+}
+
+.fa-facebook {
+  /* color: white; */
+}
+
+.fa-twitter {
+  color: #00aced;
+}
+.fa-quora {
+  color: red;
+}
+.fa-github {
+  color: black;
+}
+
+
+
+.fa-google-plus-g {
+  color: white;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+.fa-youtube {
+  color: white;
+}
+
+.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus-g:hover, .fa-instagram:hover'
+ .fa-youtube:hover {
+  color: #d5d5d5;
+}
+
 
 #card1{
   background-color: white;
