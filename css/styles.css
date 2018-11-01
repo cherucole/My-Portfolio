@@ -108,10 +108,16 @@ body {
 
 
 #hellotext{
-  font-family: 'K2D', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 2em;
 
 }
+
+/* p{
+  font-family: 'Roboto Mono', monospace !important;
+
+
+} */
 
 #name{
   font-family: 'Roboto Mono', monospace;
